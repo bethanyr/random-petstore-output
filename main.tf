@@ -18,3 +18,5 @@ resource "random_pet" "pet" {
 resource "random_string" "random_word" {
   length = var.word-length
 }
+
+
